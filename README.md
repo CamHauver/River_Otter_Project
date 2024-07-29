@@ -10,4 +10,3 @@ Objectives:
 Description of data:
 Data was originally provided in an excel workbook across five worksheets with inconsitent data entry
 Data was manually re-entered/compiled into a single excel spreadsheet with 6 columns (Location, Survey #, Camera #, SD Card, Animal Sighted, and Animal Count) for further cleaning) and 310 rows
-
