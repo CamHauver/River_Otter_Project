@@ -15,6 +15,11 @@ Data was originally provided in an excel workbook across five worksheets with in
 Data was manually re-entered/compiled into a single excel spreadsheet with 6 columns (Location, Survey #, Camera #, SD Card, Animal Sighted, and Animal Count) for further cleaning) and 310 rows
 Data was altered to protect proprietary information. Data published on this repo is theorhetical, not the actual data collected for the conservation research project
 
+See Presentation Video
+https://www.youtube.com/watch?v=IJdRgOQ-AQA
+
+Other Files stored on River_Otter_Project Repo
+
 Executable Script from Jupyter Notebook:
 
 # Import Dependencies
